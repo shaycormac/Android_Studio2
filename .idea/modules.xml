@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Http初步认识/Http初步认识.iml" filepath="$PROJECT_DIR$/Http初步认识/Http初步认识.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImageView和跑马灯/ImageView和跑马灯.iml" filepath="$PROJECT_DIR$/ImageView和跑马灯/ImageView和跑马灯.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearLayOut列表展示/LinearLayOut列表展示.iml" filepath="$PROJECT_DIR$/LinearLayOut列表展示/LinearLayOut列表展示.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListView复杂一点/ListView复杂一点.iml" filepath="$PROJECT_DIR$/ListView复杂一点/ListView复杂一点.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QQ后台偷发短信/QQ后台偷发短信.iml" filepath="$PROJECT_DIR$/QQ后台偷发短信/QQ后台偷发短信.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmartBingHua.iml" filepath="$PROJECT_DIR$/SmartBingHua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XmlDemo/XmlDemo.iml" filepath="$PROJECT_DIR$/XmlDemo/XmlDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentprovide内容提供者/contentprovide内容提供者.iml" filepath="$PROJECT_DIR$/contentprovide内容提供者/contentprovide内容提供者.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handler初步认识/handler初步认识.iml" filepath="$PROJECT_DIR$/handler初步认识/handler初步认识.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ip拨号器/ip拨号器.iml" filepath="$PROJECT_DIR$/ip拨号器/ip拨号器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listview展示/listview展示.iml" filepath="$PROJECT_DIR$/listview展示/listview展示.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqllite/sqllite.iml" filepath="$PROJECT_DIR$/sqllite/sqllite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/乱码/乱码.iml" filepath="$PROJECT_DIR$/乱码/乱码.iml" />
+      <module fileurl="file://$PROJECT_DIR$/人品计算器/人品计算器.iml" filepath="$PROJECT_DIR$/人品计算器/人品计算器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/内容观察者contentwatcher/内容观察者contentwatcher.iml" filepath="$PROJECT_DIR$/内容观察者contentwatcher/内容观察者contentwatcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/图片下载器/图片下载器.iml" filepath="$PROJECT_DIR$/图片下载器/图片下载器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多线程下载/多线程下载.iml" filepath="$PROJECT_DIR$/多线程下载/多线程下载.iml" />
+      <module fileurl="file://$PROJECT_DIR$/时钟日期和查看储存状态/时钟日期和查看储存状态.iml" filepath="$PROJECT_DIR$/时钟日期和查看储存状态/时钟日期和查看储存状态.iml" />
+      <module fileurl="file://$PROJECT_DIR$/生命周期/生命周期.iml" filepath="$PROJECT_DIR$/生命周期/生命周期.iml" />
+      <module fileurl="file://$PROJECT_DIR$/相亲神器receivesms/相亲神器receivesms.iml" filepath="$PROJECT_DIR$/相亲神器receivesms/相亲神器receivesms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/短信助手/短信助手.iml" filepath="$PROJECT_DIR$/短信助手/短信助手.iml" />
+      <module fileurl="file://$PROJECT_DIR$/短信备份smsconback/短信备份smsconback.iml" filepath="$PROJECT_DIR$/短信备份smsconback/短信备份smsconback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/网易客户端/网易客户端.iml" filepath="$PROJECT_DIR$/网易客户端/网易客户端.iml" />
+      <module fileurl="file://$PROJECT_DIR$/通信录操作contact_operator/通信录操作contact_operator.iml" filepath="$PROJECT_DIR$/通信录操作contact_operator/通信录操作contact_operator.iml" />
+    </modules>
+  </component>
+</project>

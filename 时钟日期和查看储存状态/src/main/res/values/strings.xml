@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SecondActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_storge_status">MainStorgeStatus</string>
+    <string name="title_activity_main_progress_bar">MainProgressBar</string>
+    <string name="title_activity_main_seek_bar">MainSeekBar</string>
+</resources>

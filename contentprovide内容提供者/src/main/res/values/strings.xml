@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContentProvide内容提供者</string>
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">生命周期</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_main3kof97">Main3kof97</string>
+    <string name="title_activity_mainof_one">生命周期</string>
+    <string name="title_activity_mainof_two">MainofTwo</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.itheima.binghua.activitylifecycle" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/nibuxing"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+           
+        </activity>
+        <activity
+            android:name=".SecondActivity"
+            android:label="@string/title_activity_second"
+            android:theme="@android:style/Theme.Translucent" >
+        </activity>
+        <activity
+            android:name=".Main3kof97"
+            android:configChanges="screenSize|keyboardHidden|orientation"
+            android:label="@string/title_activity_main3kof97"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:launchMode="singleInstance"
+            android:name=".MainofOne"
+            android:label="@string/title_activity_mainof_one"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainofTwo"
+            android:label="@string/title_activity_mainof_two"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+    </application>
+
+</manifest>

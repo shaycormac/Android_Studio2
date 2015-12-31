@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              tools:context=".MainActivity"
+              tools:showIn="@layout/activity_main"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="#0000ff"
+        android:src="@mipmap/ic_launcher"
+        android:scaleType="fitEnd"/>
+    <ImageView
+       android:layout_width="200dp"
+       android:layout_height="200dp"
+       android:background="#ff0000"
+       android:src="@drawable/nimabi"
+       android:scaleType="fitEnd"/>
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:background="#0000ff"
+        android:src="@drawable/wocao"
+        android:scaleType="center"/>
+    
+    
+    <!--注意啦，分清scaleType拉伸类型，centerCrop,意思为将图片放在正中间，以长方形的短边为
+    基准，长边两侧以中心裁剪，相当于拉伸了！！centerInside,意思为以图片中心为中心，比背景框小的，
+    就按实际大小放在中间，而比背景框大的，按照等比例缩小，至长边沾满一边为止，可能漏出背景框
+    fitCenter，小的图按中心放大，大的图按比例缩放，大图和centerInside一样，可能露出背景
+    Center简单，就是按图原图中心，以边框为基准机型裁剪,这样小图就和centerInside一样了
+    fitStart和fitEnd，是相对于长方形来说的，start是在上头，或者左面，end在下头或者右边-->
+    
+    
+    
+</LinearLayout>

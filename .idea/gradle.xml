@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.9" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Http初步认识" />
+            <option value="$PROJECT_DIR$/ImageView和跑马灯" />
+            <option value="$PROJECT_DIR$/LinearLayOut列表展示" />
+            <option value="$PROJECT_DIR$/ListView复杂一点" />
+            <option value="$PROJECT_DIR$/QQ后台偷发短信" />
+            <option value="$PROJECT_DIR$/XmlDemo" />
+            <option value="$PROJECT_DIR$/contentprovide内容提供者" />
+            <option value="$PROJECT_DIR$/handler初步认识" />
+            <option value="$PROJECT_DIR$/ip拨号器" />
+            <option value="$PROJECT_DIR$/listview展示" />
+            <option value="$PROJECT_DIR$/sqllite" />
+            <option value="$PROJECT_DIR$/乱码" />
+            <option value="$PROJECT_DIR$/人品计算器" />
+            <option value="$PROJECT_DIR$/内容观察者contentwatcher" />
+            <option value="$PROJECT_DIR$/图片下载器" />
+            <option value="$PROJECT_DIR$/多线程下载" />
+            <option value="$PROJECT_DIR$/时钟日期和查看储存状态" />
+            <option value="$PROJECT_DIR$/生命周期" />
+            <option value="$PROJECT_DIR$/相亲神器receivesms" />
+            <option value="$PROJECT_DIR$/短信助手" />
+            <option value="$PROJECT_DIR$/短信备份smsconback" />
+            <option value="$PROJECT_DIR$/网易客户端" />
+            <option value="$PROJECT_DIR$/通信录操作contact_operator" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

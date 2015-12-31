@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--新添加一个滚动条，既然是在顶层，必须把声明交给他-->
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wocao">
+
+    <LinearLayout
+        android:id="@+id/llout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        
+
+        android:orientation="vertical">
+
+
+    </LinearLayout>
+
+
+</ScrollView>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <com.itheima.binghua.smartbinghua.PaoMaDeng
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="泥马勒戈壁   泥马勒戈壁  泥马勒戈壁   泥马勒戈壁   泥马勒戈壁  泥马勒戈壁  泥马勒戈壁"
+        android:id="@+id/text"
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        android:focusable="true"
+        android:focusableInTouchMode="true"/>
+    <!--单个控件跑马灯效果，要想都显示跑马灯，必须继承textView一个类-->
+    <com.itheima.binghua.smartbinghua.PaoMaDeng
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="泥马勒戈壁   泥马勒戈壁  泥马勒戈壁   泥马勒戈壁   泥马勒戈壁  泥马勒戈壁  泥马勒戈壁"
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        android:focusable="true"
+        android:id="@+id/text2"
+        android:focusableInTouchMode="true"/>
+
+</LinearLayout>

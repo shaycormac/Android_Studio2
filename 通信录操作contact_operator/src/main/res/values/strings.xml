@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">通信录操作contact_operator</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2_send_sms">Main2SendSms</string>
+</resources>

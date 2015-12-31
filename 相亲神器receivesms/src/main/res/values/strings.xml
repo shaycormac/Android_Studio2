@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">相亲神器receiveSms</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main1">Main1</string>
+    <string name="title_activity_main2">Main2</string>
+    <string name="title_activity_main_intenet_open_intent">MainIntenetOpenIntent</string>
+</resources>
